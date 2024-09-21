@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Byte-ByByte
-- 👀 I’m interested in frontend and backend development
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: miguelipad6502@icloud.com
