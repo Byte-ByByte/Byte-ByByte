@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: miguelipad6502@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm 10 :)
+- ⚡ Fun fact: I got nothing lol
 
 <!---
 Byte-ByByte/Byte-ByByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
